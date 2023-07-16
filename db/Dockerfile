@@ -1,5 +1,5 @@
 # Create from official mysql image
-FROM mysql:5.7
+FROM mysql
 
 # Add a database
 ENV MYSQL_DATABASE testdb
