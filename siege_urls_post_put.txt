@@ -1,0 +1,2 @@
+http://localhost:5000/users POST {"handle": "tom"}
+http://localhost:5000/users/1 PUT {"handle": "jerry"}
